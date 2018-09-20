@@ -6,11 +6,12 @@
 The Shibe Bot is a meme bot which is built around the dog breed Shiba Inu! 
 
 ### The bot has lots of functions which include:
-* Shibe Images
+* Shibe Images/Gifs
 * Music
 * Custom Currency
 * Pet Shibes
 * Customizable Bot Prefix
+* Much more to come
 
 
 # Join our discord
